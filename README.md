@@ -19,6 +19,11 @@
 - [x] Custom title text
 - [x] Custom theme color
 
+## Screenshot
+
+![DateTimePicker Select Date](https://github.com/Fei-Sheng-Wu/AndroidDateTimePicker/blob/1.0.0/Screenshot/DateTimePicker%20Select%20Date.png)
+![DateTimePicker Select Time](https://github.com/Fei-Sheng-Wu/AndroidDateTimePicker/blob/1.0.0/Screenshot/DateTimePicker%20Select%20Time.png)
+
 ## How to Use
 
 It is very simple to use.
