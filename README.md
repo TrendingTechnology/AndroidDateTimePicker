@@ -21,6 +21,12 @@
 
 ## Screenshot
 
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="https://github.com/Fei-Sheng-Wu/AndroidDateTimePicker/blob/1.0.0/Screenshot/DateTimePicker.mp4" type="video/mp4">
+  </video>
+</figure>
+
 ![DateTimePicker Select Date](https://github.com/Fei-Sheng-Wu/AndroidDateTimePicker/blob/1.0.0/Screenshot/DateTimePicker%20Select%20Date.png)
 ![DateTimePicker Select Time](https://github.com/Fei-Sheng-Wu/AndroidDateTimePicker/blob/1.0.0/Screenshot/DateTimePicker%20Select%20Time.png)
 
