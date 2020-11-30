@@ -3,7 +3,7 @@
 [![Min SDK](https://img.shields.io/badge/Min%20SDK-5.0-green.svg?style=flat-square)](https://developer.android.com/studio/releases/platforms#5.0)
 [![Lincense](https://img.shields.io/badge/Lincense-Apache%202.0%20License-orange.svg?style=flat-square)](https://github.com/Fei-Sheng-Wu/AndroidDateTimePicker/blob/1.0.0/LICENSE.txt)
 
-> An date and/or time picker for Android. Light theme design, full screen picker dialog and native Material components. Support setting default selected date time and result submit callback handling listener. Support custom button icon, title text and theme color. Min SDK is SDK 5.0 and support AndroidX.
+> An date and/or time picker for Android. Light theme design, full screen picker dialog and native Material components. Support setting default selected date time and result submit callback handling listener. Support custom button icon, title text and theme color. Min SDK is SDK 5.0 and using AndroidX.
 
 ## Dependencies
 
